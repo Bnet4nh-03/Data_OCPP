@@ -1,0 +1,10 @@
+credentials.json
+*.db
+*.db-wal
+*.db-shm
+*.log
+ccts_sync_checkpoint.json
+ccts_checkpoint.json
+ccts_tickets.json
+ccts_export_*
+__pycache__/
